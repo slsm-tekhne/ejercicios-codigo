@@ -19,7 +19,6 @@
 - Uso de `map()`
 - Uso de `random()`
 - Sistemas visuales dinámicos
-- Interactividad general
 
 ---
 
@@ -266,9 +265,7 @@ Usa un condicional:
 ### ✅ Parte 3
 Haz que:
 
-- el mouse controle la cantidad de círculos
-
-Usa `map()`.
+- el mouse controle la cantidad de círculos usando `map()`.
 
 ---
 
@@ -289,6 +286,7 @@ function setup() {
 function draw() {
   background(240);
 
+// los valores x e y se declaran acá y luego se pasan a la función abajo
   dibujarForma(150, 200);
   dibujarForma(300, 200);
   dibujarForma(450, 200);
@@ -296,6 +294,7 @@ function draw() {
 
 // función propia
 function dibujarForma(x, y) {
+//el primero toma los valores x:150 y y:200, luego x:300 y y:200, y luego x:450 y y:200
   ellipse(x, y, 80);
 }
 ```
@@ -338,124 +337,3 @@ Ejemplo:
 function dibujarForma(x, y, tamano, color)
 ```
 
----
-
-# 🔴 Ejercicio 6 — Sistema completo
-
-## Tema
-Combinar todos los contenidos.
-
----
-
-## Código base
-
-```javascript
-let columnas = 10;
-let filas = 10;
-let espaciado;
-
-function setup() {
-  createCanvas(600, 600);
-  espaciado = width / columnas;
-  rectMode(CENTER);
-}
-
-function draw() {
-  background(240);
-
-  for (let i = 0; i < columnas; i++) {
-    for (let j = 0; j < filas; j++) {
-
-      let x = i * espaciado + espaciado / 2;
-      let y = j * espaciado + espaciado / 2;
-
-      dibujarCelda(x, y);
-    }
-  }
-}
-
-function dibujarCelda(x, y) {
-
-  let tamano = map(mouseX, 0, width, 10, espaciado);
-
-  let colorValor = map(mouseY, 0, height, 50, 255);
-
-  let variacion = random(1);
-
-  push();
-  translate(x, y);
-
-  if (variacion > 0.5) {
-    fill(colorValor, 100, 150);
-    rect(0, 0, tamano, tamano);
-  } else {
-    fill(50, colorValor, 200);
-    ellipse(0, 0, tamano);
-  }
-
-  pop();
-}
-```
-
----
-
-## Qué hace este ejemplo
-
-Este sistema combina:
-
-- loops
-- condicionales
-- función propia
-- `map()`
-- `random()`
-- input continuo
-- output dinámico
-
----
-
-## Ahora haz esto
-
-### ✅ Parte 1
-Modificar:
-
-- colores
-- formas
-- cantidad de elementos
-
----
-
-### ✅ Parte 2
-Agregar:
-
-- rotación
-- texto
-- transparencia
-- movimiento
-
----
-
-### ✅ Parte 3
-Relacionar el sistema con un referente visual.
-
-Ejemplos:
-
-- Bauhaus
-- Op Art
-- videojuegos
-- diseño de interfaces
-- visualización de datos
-
----
-
-# 💡 Recomendación
-
-No intenten hacer una “obra final” inmediatamente.
-
-Primero:
-
-- practicar sistemas pequeños
-- entender cómo funciona cada herramienta
-- experimentar con reglas
-- combinar procesos
-
-👉 Programar sistemas visuales significa construir comportamientos, no solamente dibujar formas.
