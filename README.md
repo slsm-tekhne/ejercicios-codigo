@@ -50,32 +50,31 @@ function draw() {
 ## Qué hace este ejemplo
 
 - Usa `mouseX` como input continuo
-- Usa la función  `map()` para transformar valores. La función map, como dice su nombre, mapea los valores de un rango a otro. En este caso mapea el valor de mouseX que va de 0 al ancho de la pantalla, entre 20 a 200. 
+- Usa la función  `map()` para transformar valores. La [función map](https://p5js.org/examples/calculating-values-map/), como dice su nombre, mapea los valores de un rango a otro. En este caso mapea el valor de mouseX que va de 0 al ancho de la pantalla, entre 20 a 200. 
 - El círculo cambia de tamaño según el valor mapeado del mouse. 
 
 ---
 
-## Ahora haz esto
+## Ahora en base a esté código, intenta:
 
-### ✅ Parte 1
-Haz que el color también cambie usando `mouseY`.
+### ✅ Parte 1:
+Hacer que el color también cambie usando `mouseY`.
 
 ---
 
 ### ✅ Parte 2
 Agrega un segundo círculo:
 
-- más pequeño
-- en otra posición
-- que también reaccione al mouse
+- Más pequeño
+- En otra posición
+- Que también reaccione al mouse
 
 ---
 
 ### ✅ Parte 3
 Haz que:
 
-- mientras más abajo esté el mouse
-- más transparente sea el círculo
+- Mientras más abajo esté el mouse más transparente sea el círculo
 
 ---
 
@@ -118,7 +117,7 @@ function draw() {
 ### ✅ Parte 1
 Usa `mouseX` para cambiar:
 
-- el tamaño
+- el tamaño de los círculos
 - o la separación entre círculos
 
 ---
@@ -126,8 +125,8 @@ Usa `mouseX` para cambiar:
 ### ✅ Parte 2
 Convierte la fila en una grilla:
 
-- agregar segundo loop
-- usar `x` e `y`
+- Agregar un segundo loop (nested loop)
+- Usar variables `x` e `y`
 
 ---
 
@@ -136,8 +135,7 @@ Haz que:
 
 - algunas formas sean círculos
 - otras cuadrados
-
-Usa un condicional `if`.
+- Usa un condicional `if`.
 
 ---
 
@@ -244,7 +242,7 @@ function draw() {
 
 ## Qué hace este ejemplo
 
-- Usa `random()`
+- Usa la función `random()`. La [función random()](https://p5js.org/reference/p5/random/)en p5.js es una herramienta fundamental utilizada para generar números aleatorios entre un mínimo y un máximo, o en este ejemplo entre 0 y un valor determinado por variables como width y height. 
 - Cada frame produce una composición distinta
 - El resultado nunca es idéntico
 
