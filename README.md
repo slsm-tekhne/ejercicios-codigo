@@ -56,12 +56,12 @@ function draw() {
 
 ## Ahora en base a esté código, intenta:
 
-### ✅ Parte 1:
+### Parte 1:
 Hacer que el color también cambie usando `mouseY`.
 
 ---
 
-### ✅ Parte 2
+### Parte 2
 Agrega un segundo círculo:
 
 - Más pequeño
@@ -70,7 +70,7 @@ Agrega un segundo círculo:
 
 ---
 
-### ✅ Parte 3
+### Parte 3
 Haz que:
 
 - Mientras más abajo esté el mouse más transparente sea el círculo
@@ -113,7 +113,7 @@ function draw() {
 
 ## Ahora haz esto
 
-### ✅ Parte 1
+### Parte 1
 Usa `mouseX` para cambiar:
 
 - el tamaño de los círculos
@@ -121,7 +121,7 @@ Usa `mouseX` para cambiar:
 
 ---
 
-### ✅ Parte 2
+### Parte 2
 Convierte la fila en una grilla:
 
 - Agregar un segundo loop (nested loop)
@@ -129,7 +129,7 @@ Convierte la fila en una grilla:
 
 ---
 
-### ✅ Parte 3
+### Parte 3
 Haz que:
 
 - algunas formas sean círculos
@@ -177,7 +177,7 @@ function draw() {
 
 ## Ahora haz esto
 
-### ✅ Parte 1
+### Parte 1
 Haz que:
 
 - izquierda → círculo rojo
@@ -185,7 +185,7 @@ Haz que:
 
 ---
 
-### ✅ Parte 2
+### Parte 2
 Agrega otra condición:
 
 - arriba → formas pequeñas
@@ -193,7 +193,7 @@ Agrega otra condición:
 
 ---
 
-### ✅ Parte 3
+### Parte 3
 Haz que aparezca una tercera forma.
 
 Ejemplo:
@@ -249,12 +249,12 @@ function draw() {
 
 ## Ahora haz esto
 
-### ✅ Parte 1
+### Parte 1
 Haz que el color también sea aleatorio.
 
 ---
 
-### ✅ Parte 2
+### Parte 2
 Usa un condicional:
 
 - círculos grandes → color rojo
@@ -262,7 +262,7 @@ Usa un condicional:
 
 ---
 
-### ✅ Parte 3
+### Parte 3
 Haz que:
 
 - el mouse controle la cantidad de círculos usando `map()`.
@@ -311,7 +311,7 @@ function dibujarForma(x, y) {
 
 ## Ahora haz esto
 
-### ✅ Parte 1
+### Parte 1
 Haz que la función dibuje:
 
 - más de una forma
@@ -319,7 +319,7 @@ Haz que la función dibuje:
 
 ---
 
-### ✅ Parte 2
+### Parte 2
 Haz que la función use:
 
 - color
@@ -328,7 +328,7 @@ Haz que la función use:
 
 ---
 
-### ✅ Parte 3
+### Parte 3
 Agrega parámetros nuevos.
 
 Ejemplo:
