@@ -1,3 +1,15 @@
+# EJEMPLOS CODIGO
+
+- [Global vs local](https://editor.p5js.org/sofialuisa.xyz/sketches/GdWJ_0Pqd)
+- [Variables](https://editor.p5js.org/sofialuisa.xyz/sketches/CMJhQha83)
+- [If sin else](https://editor.p5js.org/sofialuisa.xyz/sketches/GxYWiCOOC)
+- [Else if](https://editor.p5js.org/sofialuisa.xyz/sketches/vga1njuBl)
+- [Comparaciones](https://editor.p5js.org/sofialuisa.xyz/sketches/Db3eOq2Lv)
+- [Comparaciones 2](https://editor.p5js.org/sofialuisa.xyz/sketches/AQM7HHN_A)
+- [Hello world](https://editor.p5js.org/sofialuisa.xyz/sketches/G-Yu-i-LY)
+- [Mondrian 2D - solemne I](https://editor.p5js.org/sofialuisa.xyz/sketches/ttMp6lr5p)
+
+
 # Ejercicios Interactivos — Solemne II
 ## Pensamiento Computacional / p5.js
 
