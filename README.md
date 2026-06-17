@@ -1,4 +1,4 @@
-# [Ejemplo examen](https://editor.p5js.org/sofialuisa.xyz/full/xdr0tXPx-)
+# [Ejemplo examen](https://editor.p5js.org/sofialuisa.xyz/sketches/xdr0tXPx-)
 
 ![](bauhaus-screen.png)
 
