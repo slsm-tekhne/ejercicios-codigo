@@ -1,0 +1,40 @@
+//coordenadas para ubicar la elipse
+let x = 200;
+let y = 200;
+
+function setup() {
+  createCanvas(400, 400);
+}
+
+function draw() {
+
+  background(200);
+  fill(255);
+
+  ellipse(x, y, 100, 100);
+}
+
+function keyPressed() {
+
+  if (key == "a") { //si presionamos a
+    x -= 20; // le restamos 20 a x, entonces la elipse se mueve a la izquierda
+    console.log("presionaste A, avanza a la izquierda");
+  }
+
+  if (key == "d") {//si presionamos d
+    x += 20; // le sumamos 20 a x, entonces la elipse se mueve a la derecha
+    console.log("presionaste D, avanza a la derecha");
+  }
+
+  if (key == "w") { //si presionamos w
+    y -= 20; // le restamos 20 a y, entonces la elipse baja
+    console.log("presionaste W, avanza hacia abajo");
+  }
+
+  if (key == "s") { //si presionamos s
+    y += 20; // le sumamos 20 a y, entonces la elipse sube
+    console.log("presionaste S, avanza hacia arriba");
+  }
+}
+
+
