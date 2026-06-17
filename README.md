@@ -1,5 +1,6 @@
 # [Ejemplo examen](https://editor.p5js.org/sofialuisa.xyz/full/xdr0tXPx-)
 
+![](bauhaus-screen.png)
 
 
 # EJEMPLOS CODIGO vistos en clases
