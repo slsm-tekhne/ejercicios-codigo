@@ -1,0 +1,12 @@
+let gato = {
+
+  nombre: "Michi",
+  edad: 3,
+  color: "naranjo"
+
+};
+
+gato.edad = 4;
+
+console.log(gato.edad);
+
