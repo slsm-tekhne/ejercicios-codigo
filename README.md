@@ -8,6 +8,27 @@
 - [Comparaciones 2](https://editor.p5js.org/sofialuisa.xyz/sketches/AQM7HHN_A)
 - [Hello world](https://editor.p5js.org/sofialuisa.xyz/sketches/G-Yu-i-LY)
 - [Mondrian 2D - solemne I](https://editor.p5js.org/sofialuisa.xyz/sketches/ttMp6lr5p)
+- [webcam](https://editor.p5js.org/sofialuisa.xyz/sketches/dmo6XUm44)
+- [video 1](https://editor.p5js.org/sofialuisa.xyz/sketches/YUxgI6Vnw)
+- [blend modes](https://editor.p5js.org/sofialuisa.xyz/sketches/_paWI6aZT)
+- [tinte gato magenta](https://editor.p5js.org/sofialuisa.xyz/sketches/8vnxdlR9_)
+- [image](https://editor.p5js.org/sofialuisa.xyz/sketches/_T00jSjjf)
+- [objetos 1](https://editor.p5js.org/sofialuisa.xyz/sketches/qP4iHbXFo)
+- [objetos 2](https://editor.p5js.org/sofialuisa.xyz/sketches/76ly_946Z)
+- [evento2-key](https://editor.p5js.org/sofialuisa.xyz/sketches/fcdlRGaG3)
+- [evento1-mouse](https://editor.p5js.org/sofialuisa.xyz/sketches/8Q90AwD8h)
+- [push pop](https://editor.p5js.org/sofialuisa.xyz/sketches/yW93PPhjv)
+- [random](https://editor.p5js.org/sofialuisa.xyz/sketches/jJ6E6CvJ0)
+- [boolean1](https://editor.p5js.org/sofialuisa.xyz/sketches/4BmcLVrXF)
+- [boolean2](https://editor.p5js.org/sofialuisa.xyz/sketches/muFBJdy1o)
+- [arreglo1](https://editor.p5js.org/sofialuisa.xyz/sketches/-7jbs1maW)
+- [arreglo2](https://editor.p5js.org/sofialuisa.xyz/sketches/vl03FVNum)
+- [arreglo3](https://editor.p5js.org/sofialuisa.xyz/sketches/F9zh6aX9y)
+- [map](https://editor.p5js.org/sofialuisa.xyz/sketches/BSynr_3rU)
+- [key flor](https://editor.p5js.org/sofialuisa.xyz/sketches/q1TDbGHBb)
+- [funcion dibujar flor](https://editor.p5js.org/sofialuisa.xyz/sketches/vsv6SSs1V)
+- [loop anidado](https://editor.p5js.org/sofialuisa.xyz/sketches/lbUgFyxzd)
+
 
 
 # Ejercicios Interactivos — Solemne II
