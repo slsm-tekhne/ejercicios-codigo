@@ -60,7 +60,7 @@
 
 ---
 
-# 🟢 Ejercicio 1 — Input en combinación con `map()`
+# Ejercicio 1 — Input en combinación con `map()`
 
 ## Tema
 Transformar un input continuo en un cambio visual.
@@ -115,7 +115,7 @@ Haz que:
 
 ---
 
-# 🟡 Ejercicio 2 — Loops (`for`)
+# Ejercicio 2 — Loops (`for`)
 
 ## Tema
 Repetición y sistemas.
@@ -176,7 +176,7 @@ Haz que:
 
 ---
 
-# 🟠 Ejercicio 3 — Condicionales (`if`)
+# Ejercicio 3 — Condicionales (`if`)
 
 ## Tema
 Construir reglas.
@@ -242,7 +242,7 @@ Ejemplo:
 
 ---
 
-# 🔵 Ejercicio 4 — `random()`
+# Ejercicio 4 — `random()`
 
 ## Tema
 Variación y comportamiento generativo.
@@ -307,7 +307,7 @@ Haz que:
 
 ---
 
-# 🟣 Ejercicio 5 — Funciones
+# Ejercicio 5 — Funciones
 
 ## Tema
 Organizar sistemas usando funciones.
